@@ -183,7 +183,7 @@ comic.proxy.port=10808
 
 ```json
 [
-  "https://18comic.vip/album/180459/"
+  "https://18comic.vip/album/352011/"
 ]
 ```
 
@@ -191,8 +191,8 @@ comic.proxy.port=10808
 
  ```json
 [
-  "https://18comic.vip/album/180459/",
-  "https://18comic.vip/album/182168"
+  "https://18comic.vip/album/362011/",
+  "https://18comic.vip/album/352011/"
 ]
  ```
 
