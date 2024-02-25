@@ -117,13 +117,13 @@ Github Action是微软收购github之后推出的CI/CD工具, 你可以理解为
 4. 按照json格式填入漫画链接, 如果要下载一本, 那格式为(注意英文双引号) :
    ```json
    [
-     "https://18comic.vip/album/180459"
+     "https://18comic.vip/album/352011"
    ]
    ```
    如果要下载两本或者多本, 格式为(注意英文逗号) :
     ```json
     [
-      "https://18comic.vip/album/180459",
+      "https://18comic.vip/album/352011",
       "https://18comic.vip/album/182168"
     ]
     ```
